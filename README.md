@@ -1,47 +1,67 @@
-## 🚀 About Me
-What according to you are the **attributes** that best define a personality?
+# 👋 Hello, I'm Gajendra Sharma
+### Data Scientist | Problem Solver | AI Explorer
 
-Is it the way they communicate their ideas, or the way they treat other people particularly those who can do no favors to them, define them?
 
-Is it the calmness in their demeanour, or their storytelling skills that make them a magnetic personality?
+![Profile Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
 
-**Well, these were the questions that bothered me a lot while I was in exploration of defining my own attributes.**
+#### Welcome to my GitHub profile! 
 
-I explored my interests, and tried many things starting from **Music** to Poetry, Standup Comedy to **Content Writing**, to find my **IKIGAI**.
+I'm passionate about exploring and solving problems through Data Science, AI, and technology. I have a multifaceted personality with diverse interests, which reflects in my approach to learning and professional growth.
 
-Just like the different versions of softwares, I had a different personality crafted for different ocassions.
+I served as the Ecommerce Executive at WISHKEY Retail LLP for nearly 1.5 years. Transitioning into the tech world, I’m pursuing a career as a Data Scientist. With a solid background in **Economics** and a strong foundation in **Data Science**  and machine learning, I am passionate about leveraging technology to drive innovation and solve complex problems.
 
-I was great at Mathematics and I knew Mathematics was for me. When I studied Economics, I realised Economics is the definitely for me.
+I’m on a journey to blend my love for problem-solving with my technical skills to create meaningful solutions in the field of Data Science and AI. With a background in Economics and a keen interest in various fields like Music, Poetry, Standup Comedy, and Content Writing, I bring a unique perspective to my work.
 
-When I started a small business with my friend, I was certain Business is for me. After my studies, when I landed a job, I understood job is for me.
-
-But just like a Machine Learning problem, this time I was not concerned with the outcome, but I was more interested with the hidden patterns lying under.
-
-**Here are the interesting findings from my Life's ML Model:**
-
-    1. I love problem solving and that's why at every point when I was thrown a challenge, I took it and completed it.
-    2. I love to go into the depths and find the origin point to understand where everything originated from. 
-    3. I am a big fan of doing it right vs doing it fast.
-    4. I don't like to be the smartest person in the room. I have hunger to learn, to grow and expand my horizon.
-
-All this, led me on a journey of self exploration and I landed on Data Science Domain.
-
-**Here I am to utlise my potential to solve bigger problems, contribute more and work as per my SWADHARMA/ My IKIGAI.**
-
+- 🎓 **Education:** 
+  - Graduation in Economics from Calcutta University
+  - Post Graduate Diploma in Direct Selling from Shoolini University
+  
+- 💼 **Previous Role:** Ecommerce Executive at WISHKEY Retail LLP
+- 🎯 **Objective:** Contribute to the field of AI and make a significant impact by developing innovative solutions.
 
 ## 🛠 Skills
-**Language** : Python Programming, SQL
 
-**Libraries / Frameworks** : Numpy, Pandas, Matplotlib, Seaborn, SciKit Learn
+### Programming Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Technical Skills:** Exploratory Data Analysis, Statistical Analysis, Predictive Modelling, Basics of NLP
+### Machine Learning & AI
+- **Supervised Learning:** Regression, Classification
+- **Unsupervised Learning:** Clustering, Dimensionality Reduction
+- **Deep Learning:** Basics of Neural Networks, NLP 
 
-**Databases**: MySQL
+### Data Visualization
+- **Tools:** Matplotlib, Seaborn, Plotly
+- **Interactive Dashboards:** Streamlit
 
-**Soft Skills:** Problem Solving, Analytical Thinking, Communication
+### Data Processing & Analysis
+- **Web Scraping:** Selenium, BeautifulSoup
+- **Data Wrangling:** Pandas, NumPy
+- **Exploratory Data Analysis (EDA)**
+- **Databases**: MySQL
+
+## 📈 GitHub Stats
+![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)
 
 
 
-## 🔗 Important Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/gajendrasharma-work/)
+
+## 🔗 Connect with Me
+
+You can reach out to me or view my profiles through these links:
+- [Portfolio](bit.ly/gajendra_portfolio)
+- [LinkedIn](https://www.linkedin.com/in/gajendrasharma-work/)
+- [GitHub](https://github.com/gajendrasharma-github)
+- [Kaggle](https://www.kaggle.com/gajendrasharma118)
+- [HackerRank](https://www.hackerrank.com/profile/gajendrasharmaw1)
+
+Feel free to connect if you share similar interests, have collaboration opportunities, or just want to chat about Data Science and problem-solving!
+
+**📧Mail** : gajendrasharmawork@gmail.com

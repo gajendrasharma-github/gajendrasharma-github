@@ -61,6 +61,7 @@ You can reach out to me or view my profiles through these links:
 - [GitHub](https://github.com/gajendrasharma-github)
 - [Kaggle](https://www.kaggle.com/gajendrasharma118)
 - [HackerRank](https://www.hackerrank.com/profile/gajendrasharmaw1)
+- [Medium](https://medium.com/@gajendrasharmawork)
 
 Feel free to connect if you share similar interests, have collaboration opportunities, or just want to chat about Data Science and problem-solving!
 

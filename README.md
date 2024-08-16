@@ -40,9 +40,9 @@ I’m on a journey to blend my love for problem-solving with my technical skills
 - **Databases**: MySQL
 
 ## GitHub Stats
-![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)
+![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)
+
 
 
 

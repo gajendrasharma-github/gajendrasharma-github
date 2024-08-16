@@ -1,8 +1,4 @@
-# 👋 Hello, I'm Gajendra Sharma
-### Data Scientist | Problem Solver | AI Explorer
-
-
-![Profile Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085)
+### Data Scientist in Making | Problem Solver
 
 #### Welcome to my GitHub profile! 
 
@@ -12,14 +8,15 @@ I served as the Ecommerce Executive at WISHKEY Retail LLP for nearly 1.5 years. 
 
 I’m on a journey to blend my love for problem-solving with my technical skills to create meaningful solutions in the field of Data Science and AI. With a background in Economics and a keen interest in various fields like Music, Poetry, Standup Comedy, and Content Writing, I bring a unique perspective to my work.
 
-- 🎓 **Education:** 
-  - Graduation in Economics from Calcutta University
-  - Post Graduate Diploma in Direct Selling from Shoolini University
+- **Education:**
+  - Post Graduation Program in Data Science and Engineeering, Great Lakes Institute of Management
+  - Post Graduate Diploma in Direct Selling, Shoolini University
+  - Graduation in Economics Hons, University of Calcutta
   
-- 💼 **Previous Role:** Ecommerce Executive at WISHKEY Retail LLP
-- 🎯 **Objective:** Contribute to the field of AI and make a significant impact by developing innovative solutions.
+- **Previous Role:** Ecommerce Executive at WISHKEY Retail LLP, an ecommerce based startup.
+- **Objective:** Contribute to the field of AI and make a significant impact by developing innovative solutions.
 
-## 🛠 Skills
+## Skills
 
 ### Programming Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +39,7 @@ I’m on a journey to blend my love for problem-solving with my technical skills
 - **Exploratory Data Analysis (EDA)**
 - **Databases**: MySQL
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)

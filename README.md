@@ -26,14 +26,11 @@ I’m on a journey to blend my love for problem-solving with my technical skills
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Machine Learning & AI
 - **Supervised Learning:** Regression, Classification
 - **Unsupervised Learning:** Clustering, Dimensionality Reduction
-- **Deep Learning:** Basics of Neural Networks, NLP 
 
 ### Data Visualization
 - **Tools:** Matplotlib, Seaborn, Plotly
@@ -52,17 +49,15 @@ I’m on a journey to blend my love for problem-solving with my technical skills
 
 
 
-
 ## 🔗 Connect with Me
 
 You can reach out to me or view my profiles through these links:
-- [Portfolio](bit.ly/gajendra_portfolio)
+- [Portfolio](https://sites.google.com/view/gajendra-portfolio)
 - [LinkedIn](https://www.linkedin.com/in/gajendrasharma-work/)
-- [GitHub](https://github.com/gajendrasharma-github)
+- [Medium](https://medium.com/@gajendrasharmawork)
 - [Kaggle](https://www.kaggle.com/gajendrasharma118)
 - [HackerRank](https://www.hackerrank.com/profile/gajendrasharmaw1)
-- [Medium](https://medium.com/@gajendrasharmawork)
-
+  
 Feel free to connect if you share similar interests, have collaboration opportunities, or just want to chat about Data Science and problem-solving!
 
 **📧Mail** : gajendrasharmawork@gmail.com

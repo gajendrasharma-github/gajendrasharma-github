@@ -2,19 +2,17 @@
 
 #### Welcome to my GitHub profile! 
 
-I'm passionate about exploring and solving problems through Data Science, AI, and technology. I have a multifaceted personality with diverse interests, which reflects in my approach to learning and professional growth.
+In almost every story I heard in my childhood, there was a protagonist who embarked on a journey to explore something and in the journey, he faced a lot of **challenges**, discovered something new, **transformed** himself along the journey and finally reached his goals, **attaining** what he went out for. The story almost ends there and it is a happy ending where hero achieves what he wanted. 
 
-I served as the Ecommerce Executive at WISHKEY Retail LLP for nearly 1.5 years. Transitioning into the tech world, I’m pursuing a career as a Data Scientist. With a solid background in **Economics** and a strong foundation in **Data Science**  and machine learning, I am passionate about leveraging technology to drive innovation and solve complex problems.
+I loved these stories, not particularly because of the ending, but because of the **journey**. I loved the fact that achieving something was never easy, and the protagonist always had to face challenges, and evolve himself along the way. 
 
-I’m on a journey to blend my love for problem-solving with my technical skills to create meaningful solutions in the field of Data Science and AI. With a background in Economics and a keen interest in various fields like Music, Poetry, Standup Comedy, and Content Writing, I bring a unique perspective to my work.
+I grew up listening to these stories and somehow they became a part of my life, in such a way that they shaped my current thinking, and personality. This made me a **process oriented** personality, who is in love with the journey, the process, and the transformation it brings.
 
-- **Education:**
-  - Post Graduation Program in Data Science and Engineeering, Great Lakes Institute of Management
-  - Post Graduate Diploma in Direct Selling, Shoolini University
-  - Graduation in Economics Hons, University of Calcutta
-  
-- **Previous Role:** Ecommerce Executive at WISHKEY Retail LLP, an ecommerce based startup.
-- **Objective:** Contribute to the field of AI and make a significant impact by developing innovative solutions.
+Hi, I am Gajendra and I am a passionate life who loves to face challenges, discover something new and transform himself along the journey. After studying Economics in Graduation, serving as an Ecommerce Executive for around 1.5 year, I am now stepping into the world of Data Science fully prepared. 
+
+My Economics background helped me grasp statistic and machine learning concepts easily as I quit my job to pursue data science with Great Learning's post graduate program in data science and engineering. After spending almost 10 months in building the right foundation, I am now ready to take on new challenges.
+
+I carry a zeal about facing challenges and solving problems and keen on blending my love for problem-solving with my technical skills to create meaningful solutions in the field of Data Science and AI . My multifaceted personality with diverse interests, help me bring a unique perspective to my work.
 
 ## Skills
 
@@ -40,11 +38,7 @@ I’m on a journey to blend my love for problem-solving with my technical skills
 - **Databases**: MySQL
 
 ## GitHub Stats
-![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)
-
-
-
-
+![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 

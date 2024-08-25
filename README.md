@@ -2,17 +2,13 @@
 
 #### Welcome to my GitHub profile! 
 
-In almost every story I heard in my childhood, there was a protagonist who embarked on a journey to explore something and in the journey, he faced a lot of **challenges**, discovered something new, **transformed** himself along the journey and finally reached his goals, **attaining** what he went out for. The story almost ends there and it is a happy ending where hero achieves what he wanted. 
+Hi, I am Gajendra and I love to face challenges, discover something new and transform myself along the journey. After studying **Economics** in Graduation, serving as an **Ecommerce Executive for around 1.5 year**, I am now stepping into the world of Data Science fully prepared. 
 
-I loved these stories, not particularly because of the ending, but because of the **journey**. I loved the fact that achieving something was never easy, and the protagonist always had to face challenges, and evolve himself along the way. 
-
-I grew up listening to these stories and somehow they became a part of my life, in such a way that they shaped my current thinking, and personality. This made me a **process oriented** personality, who is in love with the journey, the process, and the transformation it brings.
-
-Hi, I am Gajendra and I am a passionate life who loves to face challenges, discover something new and transform himself along the journey. After studying Economics in Graduation, serving as an Ecommerce Executive for around 1.5 year, I am now stepping into the world of Data Science fully prepared. 
-
-My Economics background helped me grasp statistic and machine learning concepts easily as I quit my job to pursue data science with Great Learning's post graduate program in data science and engineering. After spending almost 10 months in building the right foundation, I am now ready to take on new challenges.
+My Economics background helped me grasp **statistics** and **machine learning** concepts easily as I quit my job to pursue data science with Great Learning's post graduate program in data science and engineering. After spending almost 10 months in building the right foundation, I am now ready to take on new challenges.
 
 I carry a zeal about facing challenges and solving problems and keen on blending my love for problem-solving with my technical skills to create meaningful solutions in the field of Data Science and AI . My multifaceted personality with diverse interests, help me bring a unique perspective to my work.
+
+I am actively seeking Data Science opportunities where I can contribute, learn, and grow. If you're looking for someone who is passionate about exploring data's potential and making a tangible impact, I’d be happy to connect and discuss how I can bring value to your team.
 
 ## Skills
 

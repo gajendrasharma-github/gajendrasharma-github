@@ -1,23 +1,27 @@
-### Data Scientist in Making | Problem Solver
-
+### Data Engineering Trainer @Great Learning
 #### Welcome to my GitHub profile! 
 
-Hi, I am Gajendra and I love to face challenges, discover something new and transform myself along the journey. After studying **Economics** in Graduation, serving as an **Ecommerce Executive for around 1.5 year**, I am now stepping into the world of Data Science fully prepared. 
+I'm Gajendra Sharma, a dedicated Data Engineering Trainer passionate about empowering learners with essential technical skills and insights. With a diverse background in teaching, mentoring, and analytics, I’ve developed a unique skill set that bridges education, data-driven decision-making, and business growth.
 
-My Economics background helped me grasp **statistics** and **machine learning** concepts easily as I quit my job to pursue data science with Great Learning's post graduate program in data science and engineering. After spending almost 10 months in building the right foundation, I am now ready to take on new challenges.
+To date, I’ve trained over 200 learners and delivered 700+ hours of hands-on training.
 
-I carry a zeal about facing challenges and solving problems and keen on blending my love for problem-solving with my technical skills to create meaningful solutions in the field of Data Science and AI . My multifaceted personality with diverse interests, help me bring a unique perspective to my work.
+My academic foundation is in Economics, where I had the honor of being mentored by Gautam Bhattacharya, a respected Econometrician in Kolkata. This experience helped sharpen my analytical thinking, which I later applied during a transformative year in Himachal Pradesh, learning the fundamentals of training and coaching under the guidance of a Life Coach and NLP Practitioner Kapil Sharma.
 
-I am actively seeking Data Science opportunities where I can contribute, learn, and grow. If you're looking for someone who is passionate about exploring data's potential and making a tangible impact, I’d be happy to connect and discuss how I can bring value to your team.
+In addition to my professional roles, I’m passionate about mentorship. I’ve conducted over 100 free sessions—both one-on-one and group sessions—providing career guidance and advice. I also regularly take sessions on data science topics, offering guidance on career paths, skill-building, and strategic roadmaps. 
 
 ## Skills
 
 ### Programming Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+
+### Data Engineering
+- **Data Warehousing**
+- **ETL & ELT**
+- **Real Time Data Analytics**
 
 ### Machine Learning & AI
 - **Supervised Learning:** Regression, Classification
@@ -43,7 +47,6 @@ You can reach out to me or view my profiles through these links:
 - [LinkedIn](https://www.linkedin.com/in/gajendrasharma-work/)
 - [Medium](https://medium.com/@gajendrasharmawork)
 - [Kaggle](https://www.kaggle.com/gajendrasharma118)
-- [HackerRank](https://www.hackerrank.com/profile/gajendrasharmaw1)
   
 Feel free to connect if you share similar interests, have collaboration opportunities, or just want to chat about Data Science and problem-solving!
 

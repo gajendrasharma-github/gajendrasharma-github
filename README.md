@@ -3,7 +3,8 @@
 
 I'm Gajendra Sharma, a dedicated Data Engineering Trainer passionate about empowering learners with essential technical skills and insights. With a diverse background in teaching, mentoring, and analytics, I’ve developed a unique skill set that bridges education, data-driven decision-making, and business growth.
 
-To date, I’ve trained over 200 learners and delivered 700+ hours of hands-on training.
+Worked with Clients like **Coforge**, **EXL**, **LTIMindtree** for Data Engineering and Machine Learning Tracks.
+To date, I’ve trained over **200 learners** and delivered **500+ hours** of hands-on training.
 
 My academic foundation is in Economics, where I had the honor of being mentored by Gautam Bhattacharya, a respected Econometrician in Kolkata. This experience helped sharpen my analytical thinking, which I later applied during a transformative year in Himachal Pradesh, learning the fundamentals of training and coaching under the guidance of a Life Coach and NLP Practitioner Kapil Sharma.
 

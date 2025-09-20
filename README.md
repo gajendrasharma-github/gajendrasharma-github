@@ -40,7 +40,7 @@ To date, I’ve trained over **1000 learners** and delivered **700+ hours** of h
 ## 🔗 Connect with Me
 
 You can reach out to me or view my profiles through these links:
-- [Portfolio](https://sites.google.com/view/gajendra-portfolio)
+- [Portfolio](https://gajendra-sharma-trainer-8c61ig9.gamma.site/)
 - [LinkedIn](https://www.linkedin.com/in/gajendrasharma-work/)
 - [Medium](https://medium.com/@gajendrasharmawork)
 - [Kaggle](https://www.kaggle.com/gajendrasharma118)

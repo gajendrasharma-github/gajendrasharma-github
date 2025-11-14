@@ -1,24 +1,26 @@
-### Data Engineering Trainer @Great Learning
 #### Welcome to my GitHub profile! 
 
-I'm Gajendra Sharma, a dedicated Data Engineering Trainer passionate about empowering learners with essential technical skills and insights. With a diverse background in teaching, mentoring, and analytics, I’ve developed a unique skill set that bridges education, data-driven decision-making, and business growth.
+I’m a Data Scientist with 3+ years of experience in analytics, predictive modeling, and data-driven problem solving combining statistical depth with business intuition.
 
-Worked with Clients including **EY**, **NXP**, **EXL**, **Coforge**, **Wipro**, **LTIMindtree** , **HCL**, **Hindalco**, **Edgeverve**, **Centric**, etc. for Java Full Stack, Data Engineering and Machine Learning Tracks.
-To date, I’ve trained over **1000 learners** and delivered **700+ hours** of hands-on training.
+I’ve delivered 10+ real-world projects improving marketing ROI, HR analytics, and customer segmentation for enterprise and consulting clients.
+Currently working at Great Learning as an Associate (Data Science) where I design, deploy, and deliver analytics-driven learning experiences for global teams.
+
+Alongside project delivery, I’ve led large-scale
+analytics enablement programs for global teams mentoring 1000+ professionals and strengthening their ability to build and operationalize
+ML solutions. I bring a blend of technical depth, problem-solving clarity, and client-facing communication to deliver actionable, businesscentric outcomes.
+
+Worked with Clients including **EY**, **NXP**, **EXL**, **Coforge**, **Wipro**, **LTIMindtree** , **HCL**, **Hindalco**, **Edgeverve**, **Centric**, etc. for Data Engineering and Machine Learning Tracks.
+To date, I’ve trained over **1000 learners** and delivered **500+ hours** of hands-on training.
 
 ## Skills
 
 ### Programming Languages & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
-### Data Engineering
-- **Data Warehousing**
-- **ETL & ELT**
-- **Real Time Data Analytics**
+
 
 ### Machine Learning & AI
 - **Supervised Learning:** Regression, Classification
@@ -33,6 +35,10 @@ To date, I’ve trained over **1000 learners** and delivered **700+ hours** of h
 - **Data Wrangling:** Pandas, NumPy
 - **Exploratory Data Analysis (EDA)**
 - **Databases**: MySQL
+
+### Data Engineering
+- **Data Warehousing**
+- **ETL & ELT**
 
 ## GitHub Stats
 ![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendrasharma-github&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendrasharma-github&layout=compact&theme=radical)
